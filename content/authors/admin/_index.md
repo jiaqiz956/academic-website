@@ -33,10 +33,7 @@ education:
     year: 2018-2020
   - course: Research Student Program in Media and Communication
     institution: Saitama University
-    year: 2017-2018 
-  - course: B.A. in Japanese
-    institution: Dalian University of Technology
-    year: 2012-2016
+    year: 2017-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,8 +71,11 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! My name is Jiaqi Zheng and I'm a PhD candidate of social science at Hitotsubashi University. My research interests include social media data mining, emergency information management, online information behaviour psychology, social media situational awareness and misinformation diffusion networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+はじめまして！鄭佳琪です。一橋大学社会学研究科・地球社会研究専攻の博士後期課程に所属しています。私の研究関心はソーシャルメディア上でのデータマイニング、災害時情報の危機管理、オンライン情報行動の社会心理、ソーシャルメディアを用いた情勢感知と誤情報の拡散ネットワークです。
+
+你好！我是郑佳琪。目前在日本一桥大学社会学研究科攻读博士课程。我的研究兴趣包括社交媒体数据分析，突发事件与灾害中的信息危机管理，网络信息行为的社会心理，社交媒体情势感知以及虚假信息的扩散网络。
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
