@@ -6,7 +6,7 @@ title: Jiaqi Zheng
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Social Science
+role: PhD Student in Social Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! My name is Jiaqi Zheng and I'm a PhD candidate of social science at Hitotsubashi University. My research interests include social media data mining, emergency information management, online information behaviour psychology, social media situational awareness and misinformation diffusion networks.
+Welcome! My name is Jiaqi Zheng and I'm a PhD student of social science at Hitotsubashi University. My research interests include social media data mining, emergency information management, online information behaviour psychology, social media situational awareness and misinformation diffusion networks.
 
 はじめまして！鄭佳琪です。一橋大学社会学研究科・地球社会研究専攻の博士後期課程に所属しています。私の研究関心はソーシャルメディア上でのデータマイニング、災害時情報の危機管理、オンライン情報行動の社会心理、ソーシャルメディアを用いた情勢感知と誤情報の拡散ネットワークです。
 
