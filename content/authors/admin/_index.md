@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Social Science
     institution: Hitotsubashi University
-    year: 2020-2023
+    year: 2020-
   - course: Master in Social Science
     institution: Hitotsubashi University
     year: 2018-2020
@@ -75,7 +75,7 @@ Welcome! My name is Jiaqi Zheng and I'm a PhD candidate of social science at Hit
 
 はじめまして！鄭佳琪です。一橋大学社会学研究科・地球社会研究専攻の博士後期課程に所属しています。私の研究関心はソーシャルメディア上でのデータマイニング、災害時情報の危機管理、オンライン情報行動の社会心理、ソーシャルメディアを用いた情勢感知と誤情報の拡散ネットワークです。
 
-你好！我是郑佳琪。目前在日本一桥大学社会学研究科攻读博士课程。我的研究兴趣包括社交媒体数据分析，突发事件与灾害中的信息危机管理，网络信息行为的社会心理，社交媒体情势感知以及虚假信息的扩散网络。
+你好！我是郑佳琪。目前在日本一桥大学攻读社会学博士学位。我的研究兴趣包括社交媒体数据分析，突发事件与灾害中的信息危机管理，网络信息行为的社会心理，社交媒体情势感知以及虚假信息的扩散网络。
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
