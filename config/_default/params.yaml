@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: sd202005@hit-u.ac.jp
+phone: 042-580-9098
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 2-1 Naka
+  city: Tokyo
+  region: Kunitachi
+  postcode: '186-8601'
+  country: Japan
+  country_code: JP
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '35.6944'
+  longitude: '139.4455'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
@@ -68,8 +68,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Jun 30, 2021'
+time_format: '10:13 PM'
 address_format: en-us
 
 # Site features
